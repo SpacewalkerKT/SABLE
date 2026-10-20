@@ -96,7 +96,7 @@ If you find this work useful, please cite our paper:
   year={2026},
   doi={10.1109/OJITS.2026.3744293}
 }
-```.
+```
 
 ## License
 
