@@ -86,9 +86,17 @@ Generated outputs should be kept separate from archived experimental results.
 
 ## Citation
 
-If you use this release package or its source code in your research, please cite the associated SABLE manuscript and, where applicable, the corresponding software release.
+If you find this work useful, please cite our paper:
 
-Citation information will be updated following publication of the manuscript.
+```bibtex
+@article{lin2026sable,
+  title={SABLE: A Sparse Bayesian Meta-Learning Framework for Few-Shot Traffic Incident Recognition},
+  author={Lin, Hujite and Han, Xun and Ma, Rujia and Ye, Junchao and Liu, Chunhu and Wang, Huan},
+  journal={IEEE Open Journal of Intelligent Transportation Systems},
+  year={2026},
+  doi={10.1109/OJITS.2026.3744293}
+}
+```.
 
 ## License
 
